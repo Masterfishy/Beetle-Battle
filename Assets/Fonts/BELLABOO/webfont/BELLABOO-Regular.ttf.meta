@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 800d3bf2e31c7a443ae69253cc0bb426
+timeCreated: 1539459029
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: BELLABOO
+  fontNames:
+  - BELLABOO
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 22dfd0ae322540a44b2a2cb98002c772
+timeCreated: 1539459672
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Hallo sans
+  fontNames:
+  - Hallo sans
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 8a335e8823f34794c9b19398937640b9
+timeCreated: 1539447497
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Pacha
+  fontNames:
+  - Pacha
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
