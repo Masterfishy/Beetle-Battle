@@ -1,8 +1,8 @@
 # Beetle-Battle
 Vriginia Tech Fall Game Jam game
 
-This is the game my team built in 48 hours called Beetle Battle.
-The theme of our game jam was Projection.  
+For the game jam of fall 2018, the theme was Projection.
+This is the game my team built in 48 hours using Unity named Beetle Battle. 
 
 For this game I did the art, UI, and UX.
 All the menus, beetles, and sticks were created using Asesprite.
